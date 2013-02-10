@@ -1,4 +1,4 @@
-mehpi
+МИФИ
 =====
 
-education materials
+Учебные материалы
