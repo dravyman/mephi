@@ -1,0 +1,19 @@
+\documentclass[12pt]{article}
+%\usepackage{ucs}
+\usepackage[utf8x]{inputenc} % Включаем поддержку UTF8
+\usepackage[russian]{babel}  % Включаем пакет для поддержки русского языка
+\usepackage{amsmath}
+\usepackage{amssymb}
+\title{Физика}
+\date{}
+\author{abcdw}
+ 
+\begin{document}
+    \maketitle
+    Колебания.
+    \S1 Линейные диффиринциальные уравнения второго порядка с постоянным коэффициентами. \newline
+    $\ddot x + a\dot x + bx = f(t), x = x(t)$ \newline
+    $\ddot x + a\dot x + bx = 0$ - однородное. \newline
+    Решение любого диффиринциального уравнения содержит две произвольные константы. \newline
+
+\end{document}
